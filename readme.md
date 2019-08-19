@@ -1,7 +1,7 @@
 # Metahash JS
 https://metahash.org
 
-![](https://raw.githubusercontent.com/xboston/metahash-playground/master/media/browser.png)
+![](https://raw.githubusercontent.com/xboston/metahash-js-playground/master/media/browser.png)
 
 
 Добавить:

@@ -1,5 +1,4 @@
-# Metahash JS
-https://metahash.org
+# MetaHash JS
 
 ![](https://raw.githubusercontent.com/xboston/metahash-js-playground/master/media/browser.png)
 
